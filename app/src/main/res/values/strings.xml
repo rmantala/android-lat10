@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan10</string>
+    <string name="btClear">Clear</string>
+    <string name="btSubmit">Submit</string>
+    <string name="hintEtAlbum">type a album</string>
+    <string name="etSongHint">type a song</string>
+</resources>
